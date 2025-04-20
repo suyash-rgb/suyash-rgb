@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a cutting-edge solution for instantly deployable chatbots tailored to businesses and website owners.<br>👯 I’m looking to collaborate on unique solutions  to modern problems<br>🤝 I’m looking for help with React <br>🎥 I make videos about code and project demos on YouTube<br>🌱 I’m currently learning React and AWS Cloud <br>⚡ Fun fact: <br>
-Java was originally created for interactive television and was called Oak after an oak tree that stood outside its creator's office! It was later renamed Java, inspired by the coffee consumed during its development. So, Java and coffee have been inseparable ever since! ☕️<br>
+🔭 I’m currently working on a cutting-edge solution for instantly deployable chatbots tailored to businesses and website owners.<br><br>👯 I’m looking to collaborate on unique solutions to modern problems<br><br>🤝 I’m looking for help with React <br><br>🎥 I make videos about code and project demos on YouTube<br><br>🌱 I’m currently learning React and AWS Cloud <br><br>⚡ Fun fact: <br><br>
+Java was originally created for interactive television and was called Oak after an oak tree that stood outside its creator's office! It was later renamed Java, inspired by the coffee consumed during its development. So, Java and coffee have been inseparable ever since! ☕️<br><br>
 
 
 ## 🌐 Socials:
