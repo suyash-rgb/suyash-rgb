@@ -2,6 +2,8 @@
 🔭 I’m currently working on a cutting-edge solution for instantly deployable chatbots tailored to businesses and website owners.<br><br>👯 I’m looking to collaborate on unique solutions to modern problems<br><br>🤝 I’m looking for help with React <br><br>🎥 I make videos about code and project demos on [YouTube](https://youtube.com/@suyashbaoney?si=9p3lN36m31MX6ySV) <br><br>🌱 I’m currently learning React and AWS Cloud <br><br>⚡ Fun fact: <br><br>
 Java was originally created for interactive television and was called Oak after an oak tree that stood outside its creator's office! It was later renamed Java, inspired by the coffee consumed during its development. So, Java and coffee have been inseparable ever since! ☕️<br><br>
 
+## Github Badges :
+<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_usurper__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/suyash-baoney-bb38b3290) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCR47AFT4vnVNoK0Pyn9LvnA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suyashbaoney58@gmail.com) 
